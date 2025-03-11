@@ -1,0 +1,23 @@
+{
+  "name": "myweb",
+  "version": "1.0.0",
+  "main": "page.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pallavi-s7/myWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pallavi-s7/myWeb/issues"
+  },
+  "homepage": "https://github.com/pallavi-s7/myWeb#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
